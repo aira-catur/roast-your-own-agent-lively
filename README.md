@@ -1,5 +1,7 @@
 # Roast Your Own Agent
 
+Entry note: the self-roast is behavioral, not generic — the agent agreed, agreed with the correction, then apologized for agreeing, all before checking who was right.
+
 [![Competition](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
 [![Rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/aira-catur/roast-your-own-agent-lively/rank.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
 [![Reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/aira-catur/roast-your-own-agent-lively/reward.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
